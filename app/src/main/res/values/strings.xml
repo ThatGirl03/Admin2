@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Admin1</string>
+    <string name="login">Login</string>
+    <string name="identification_number">Identification Number</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome!</string>
+    <string name="appointments">Appointments</string>
+    <string name="medical_records">Medical Records</string>
+    <string name="health_topics">Health Topics</string>
+    <string name="home">Home</string>
+    <string name="user_id">User Id</string>
+    <string name="datetime">DateTime</string>
+</resources>
